@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Mingyu Song
 ## _The Last Markdown Editor, Ever_
 
