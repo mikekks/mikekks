@@ -1,6 +1,6 @@
 ![Aditya Vikram Singh Banner](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fl2RKZ%2FbtrHaW2AV6t%2FsPpCk8BDKO5UEKFgH6kn50%2Fimg.png)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=400&section=header&text=Mingyu Song%20render&fontSize=90&textBg=true)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=400&section=header&text=Mingyu Song%20render&fontSize=100)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>👋&nbsp; I'm Mingyu Song</h2>
 
