@@ -41,10 +41,6 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
-<a href="www.linkedin.com/in/민규-송-7003a7248"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="thdalsrb79@naver.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-
 
 -----
 Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
