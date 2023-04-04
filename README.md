@@ -36,7 +36,7 @@
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
 ### 💻 &nbsp;PS
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/thdalsrb79@naver.com/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mikekks)](https://solved.ac/mikekks/)
 
 ### ⚙️ &nbsp;GitHub Analytics
 [![Github stats](https://github-readme-stats.vercel.app/api?username=mikekks)](https://github.com/anuraghazra/github-readme-stats)
