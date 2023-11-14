@@ -14,7 +14,7 @@
 <!--✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\-->
 💬 &nbsp;Any comments are always open. I like discussion..\
 ✉️ &nbsp;You can shoot me an email at thdalsrb79@naver.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://ionized-lillipilli-b46.notion.site/ad8697223c3448b58d929da4cfa96d29) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
