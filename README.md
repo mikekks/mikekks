@@ -1,48 +1,72 @@
 <!-- ![Aditya Vikram Singh Banner](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fl2RKZ%2FbtrHaW2AV6t%2FsPpCk8BDKO5UEKFgH6kn50%2Fimg.png) -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=400&section=header&text=Mingyu-Song&fontSize=100)
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>👋&nbsp; I'm Mingyu Song</h2>
+<h1>👋&nbsp; 빠른 성장 속력을 가진 개발자</h1>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Mingyu -->
+## 👨🏻‍💻 &nbsp;Projects
 
-### 👨🏻‍💻 &nbsp;About Me
+### Meeteam
+* 2023/11 ~ 진행중
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science at the University of kwangwoon.\
-🌱 &nbsp;I'm on track for learning more about Backend, Blockchain, and Cloud Architecture.\
-<!--✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\-->
-💬 &nbsp;Any comments are always open. I like discussion..\
-✉️ &nbsp;You can shoot me an email at thdalsrb79@naver.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions!
+### sopt-makers crew 팀
+* 2023/03 ~ 진행중
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+### Nonsoolmate
+* 2023/12 ~ 진행중
 
-### 🛠 &nbsp;Tech Stack
+## 👨🏻‍💻 &nbsp;Awards
 
-<img src="https://img.shields.io/badge/Solidity-3766AB?style=flat-square&logo=Solidity&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/TypeScript-2766AB?style=flat-square&logo=typescript&logoColor=white"/></a>
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
+### Klay makers 2022
+* 프로젝트명 : D-AD
+* public good 트랙에서 2등 수상
+* 개인정보 노출을 최소화한 광고 플랫폼 개발
+* link : https://medium.com/klaytn-kr/글로벌-해커톤-klaymakers22-수상자-공개-83a709903d68
+
+### TRON Grand Hackathon - Season 3
+* 프로젝트명 : mushroom by 0xCatbox
+* Tron에서 주최한 국제 해커톤으로, game/fi 트랙에서 5등 수상
+* link : https://cointelegraph.com/press-releases/tron-grand-hackathon-2022-season-3-winners-announced
+
+### EVMOS-Covalent Hackathon 
+* 프로젝트명 : Metaverse(Roblox)
+* EVMOS-Covalent에서 주최한 국제 해커톤으로, NFT/gameFi 트랙에서 1등 수상
+* link : https://medium.com/encode-club/evmos-covalent-onemillionwallets-hackathon-prizewinners-and-summary-22fca2302c37
+
+## 📝 &nbsp;Article
+
+### 영지식 증명 아티클 프로젝트
+* klaytn dev 앰배서더로서 진행한 프로젝트
+* 영지식 증명의 기초적인 내용부터 영지식 증명의 대표적인 프로젝트인 ‘scroll’ 프로젝트 분석 진행
+* 아티클 주소 : https://klaytn.foundation/kr/dev-ambassador-research-zkevm-기술-분석/
+
+
+## 🛠 &nbsp;Tech Stack
+### BackEnd
+* Java
+* Spring Boot, Spring MVC, Spring Data JPA, queryDsl
+* Junit5, Mockito, Jacoco, Jmeter, Prometheus
+* IntelliJ, DataGrip, VS code, Vim
+* Github
+
+### DevOps
+* AWS EC2, S3, RDS, Route 53, CodeDeploy, cloudfront, ELB
+* MySQL
+* Nginx, Tomcat, Caddy
+* Docker
+
+### Block-Chain
+* Solidity, Circom
+* 영지식 증명(ZKP)
+* snark.js, node.js
+
 
 ### 💻 &nbsp;PS
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mikekks)](https://solved.ac/mikekks/)
 
 ### ⚙️ &nbsp;GitHub Analytics
 [![Github stats](https://github-readme-stats.vercel.app/api?username=mikekks)](https://github.com/anuraghazra/github-readme-stats)
-
-
-### 🤝🏻 &nbsp;Connect with Me
 
 
 -----
