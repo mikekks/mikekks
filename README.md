@@ -1,12 +1,6 @@
-<!-- ![Aditya Vikram Singh Banner](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fl2RKZ%2FbtrHaW2AV6t%2FsPpCk8BDKO5UEKFgH6kn50%2Fimg.png) -->
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=400&section=header&text=Mingyu-Song&fontSize=100)
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
-
 <h1>👋&nbsp; 빠른 성장 속력을 가진 개발자</h1>
 
 ## 👨🏻‍💻 &nbsp;Projects
-
 ### Meeteam
 * 2023/11 ~ 진행중
 
@@ -41,6 +35,8 @@
 * 영지식 증명의 기초적인 내용부터 영지식 증명의 대표적인 프로젝트인 ‘scroll’ 프로젝트 분석 진행
 * 아티클 주소 : https://klaytn.foundation/kr/dev-ambassador-research-zkevm-기술-분석/
 
+### 💻 &nbsp;PS
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mikekks)](https://solved.ac/mikekks/)
 
 ## 🛠 &nbsp;Tech Stack
 ### BackEnd
@@ -62,11 +58,7 @@
 * snark.js, node.js
 
 
-### 💻 &nbsp;PS
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mikekks)](https://solved.ac/mikekks/)
 
-### ⚙️ &nbsp;GitHub Analytics
-[![Github stats](https://github-readme-stats.vercel.app/api?username=mikekks)](https://github.com/anuraghazra/github-readme-stats)
 
 
 -----
