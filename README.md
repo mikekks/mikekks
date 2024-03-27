@@ -51,7 +51,7 @@
 * AWS EC2, S3, RDS, Route 53, CodeDeploy, cloudfront, ELB
 * MySQL
 * Nginx, Tomcat, Caddy
-* Docker
+* Docker, Docker-compose
 
 ### Block-Chain
 * Solidity, Circom
