@@ -22,10 +22,10 @@
 * 실제 서비스 중
 * [Makers-crew](https://github.com/sopt-makers/sopt-crew-backend)
 
-### Nonsoolmate
+### 논술메이트
 * 2023/12 ~ 진행중
 * 서비스 런칭 준비 중
-* [NonsoolMate](https://github.com/nonsoolmate/NONSOOLMATE-SERVER)
+* [논술메이트](https://github.com/nonsoolmate-official/nonsoolmate-server)
 
 ## 👨🏻‍💻 &nbsp;Awards
 
