@@ -12,15 +12,15 @@
 * [고민의 흔적](https://github.com/mikekks/traces-of-thought)
 
 ## 👨🏻‍💻 &nbsp;Projects about spring
-### Meeteam
-* 2023/11 ~ 진행중
-* 서비스 런칭 준비 중
-* [MeeTeam](https://github.com/MeeTeamNumdle/MeeTeam_BackEnd)
-
 ### sopt-makers crew 팀
 * 2023/03 ~ 진행중
 * 실제 서비스 중
 * [Makers-crew](https://github.com/sopt-makers/sopt-crew-backend)
+
+### Meeteam
+* 2023/11 ~ 진행중
+* 서비스 런칭 준비 중
+* [MeeTeam](https://github.com/MeeTeamNumdle/MeeTeam_BackEnd)
 
 ### 논술메이트
 * 2023/12 ~ 진행중
