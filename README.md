@@ -15,20 +15,20 @@
 ## 👨🏻‍💻 &nbsp;Projects about spring
 ### sopt-makers crew 팀
 * 2023/03 ~ 진행중
-* 실제 서비스 중
-* [Makers-crew](https://github.com/sopt-makers/sopt-crew-backend)
+* 서비스 : [SOPT](https://playground.sopt.org/)
+* Github : [makers-crew backend](https://github.com/sopt-makers/sopt-crew-backend)
 
-### Meeteam
+### Meeteam (밋팀)
 * 2023/11 ~ 진행중
-* [웹 사이트](https://www.meeteam.co.kr)
-* [MeeTeam](https://github.com/MeeTeamNumdle/MeeTeam_BackEnd)
+* 서비스 : [밋팀](https://www.meeteam.co.kr)
+* Github : [MeeTeam backend](https://github.com/MeeTeamIdle/MeeTeam_BackEnd)
 
 ### 논술메이트
 * 2023/12 ~ 진행중
-* 서비스 런칭 준비 중
 * 정주영 창업경진대회 진행중
+* 서비스 : [논술메이트](https://www.nonsoolmate.com/)
+* Github : [논술메이트 backend](https://github.com/nonsoolmate-official/nonsoolmate-server)
 * 아산유스프러너 데모데이 참가 ([관련기사](https://asan-nanum.org/press/2024-ayp-demoday/))
-* [논술메이트](https://github.com/nonsoolmate-official/nonsoolmate-server)
 
 ## 👨🏻‍💻 &nbsp;Awards
 
@@ -76,10 +76,6 @@
 * Solidity, Circom
 * 영지식 증명(ZKP)
 * snark.js, node.js
-
-
-
-
 
 -----
 Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
