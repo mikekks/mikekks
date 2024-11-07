@@ -20,7 +20,7 @@
 
 ### Meeteam
 * 2023/11 ~ 진행중
-* 서비스 런칭 준비 중
+* [웹 사이트](https://www.meeteam.co.kr)
 * [MeeTeam](https://github.com/MeeTeamNumdle/MeeTeam_BackEnd)
 
 ### 논술메이트
