@@ -34,18 +34,18 @@
 
 ### Klay makers 2022
 * 프로젝트명 : **D-AD**
-* public good 트랙에서 2등 수상
+* public good 트랙에서 2등 수상 (2022/11/23)
 * 개인정보 노출을 최소화한 광고 플랫폼 개발
 * [수상 내역](https://medium.com/klaytn-kr/글로벌-해커톤-klaymakers22-수상자-공개-83a709903d68)
 
 ### TRON Grand Hackathon - Season 3
 * 프로젝트명 : **mushroom by 0xCatbox**
-* Tron에서 주최한 국제 해커톤으로, game/fi 트랙에서 5등 수상
+* Tron에서 주최한 국제 해커톤으로, game/fi 트랙에서 5등 수상 (2022/12/16)
 * [수상 내역](https://cointelegraph.com/press-releases/tron-grand-hackathon-2022-season-3-winners-announced)
 
 ### EVMOS-Covalent Hackathon 
 * 프로젝트명 : **Metaverse(Roblox)**
-* EVMOS-Covalent에서 주최한 국제 해커톤으로, NFT/gameFi 트랙에서 1등 수상
+* EVMOS-Covalent에서 주최한 국제 해커톤으로, NFT/gameFi 트랙에서 1등 수상 (2022/12/15)
 * [수상 내역](https://medium.com/encode-club/evmos-covalent-onemillionwallets-hackathon-prizewinners-and-summary-22fca2302c37)
 
 ## 📝 &nbsp;Article
