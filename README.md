@@ -10,7 +10,7 @@
 * 2년 전부터 개발을 시작하여 빠른 속력으로 꾸준히 성장하고 있습니다.
 * 문제의 원인을 파악할 때, 그 원인이 발생한 상황이나 환경에도 주의를 기울입니다. 이를 통해 실수하기 어려운 환경을 만들고자 합니다.
 * 깊게 고민하는 것을 좋아합니다. 고민의 흔적들이 휘발되지 않도록 아카이빙하고 있습니다.
-    * [고민의 흔적](https://github.com/mikekks/traces-of-thought)
+    * [블로그](https://gamxong.tistory.com), [고민의 흔적](https://github.com/mikekks/traces-of-thought)
 
 ## 👨🏻‍💻 &nbsp;Projects
 
