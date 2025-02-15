@@ -16,7 +16,7 @@
 
 | 프로젝트 이름 | 진행기간       | 한줄소개             | 기타 링크 목록                   |
 |---------------|---------------|---------------------|----------------------------------|
-|  sopt-makers crew 팀   | 2024.03 ~ 진행중 | 매 기수 200명의 동아리원을 관리하기 위한 서비스 | [서비스 링크](https://playground.sopt.org/), [Github](https://github.com/sopt-makers/sopt-crew-backend) |
+|  sopt-makers crew 팀   | 2024.03 ~ 2025.02 | 매 기수 200명의 동아리원을 관리하기 위한 서비스 | [서비스 링크](https://playground.sopt.org/), [Github](https://github.com/sopt-makers/sopt-crew-backend) |
 | Meeteam (밋팀)   | 2023.11 ~ 진행중  | 오픈프로필 기반 교내 구인 서비스 (졸업작품)    | [서비스 링크](https://www.meeteam.co.kr), [Github](https://github.com/MeeTeamIdle/MeeTeam_BackEnd) |
 | 논술메이트  | 2023.12 ~ 2024.10 | 입시 논술 관련 서비스 (**정주영 창업경진대회 진행**) | [서비스 링크](https://www.nonsoolmate.com/), [관련기사](https://www.mk.co.kr/news/it/11170786)   |
 | 레이어   | 2024.06 ~ 진행중 | 회고를 쉽게 도와주는 서비스 | [서비스 링크](https://www.layerapp.io/), [GitHub](https://github.com/depromeet/layer-server)    |
