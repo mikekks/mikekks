@@ -16,6 +16,7 @@
 
 | 프로젝트 이름 | 진행기간       | 한줄소개             | 기타 링크 목록                   |
 |---------------|---------------|---------------------|----------------------------------|
+|  Uniro (소프티어)   | 2024.12 ~ 2025.02 | 현대자동차 부트캠프에서 진행한 프로젝트로 장애인들을 위한 배리어프리 맵 서비스 | [서비스 링크](https://www.uniro.site/), [Github](https://github.com/softeer5th/Team2-Getit) |
 |  sopt-makers crew 팀   | 2024.03 ~ 2025.02 | 매 기수 200명의 동아리원을 관리하기 위한 서비스 | [서비스 링크](https://playground.sopt.org/), [Github](https://github.com/sopt-makers/sopt-crew-backend) |
 | Meeteam (밋팀)   | 2023.11 ~ 2024.11  | 오픈프로필 기반 교내 구인 서비스 (졸업작품)    | [서비스 링크](https://www.meeteam.co.kr), [Github](https://github.com/MeeTeamIdle/MeeTeam_BackEnd) |
 | 논술메이트  | 2023.12 ~ 2024.10 | 입시 논술 관련 서비스 (**정주영 창업경진대회 진행**) | [서비스 링크](https://www.nonsoolmate.com/), [관련기사](https://www.mk.co.kr/news/it/11170786)   |
