@@ -27,7 +27,7 @@
 
 | 대회명 |   수상     | 진행기간             | 프로젝트명 / 소개                  | 수상내역                  |
 |---------------|---------------|---------------------|----------------------------------|---------------------|
-| 현대자동차 소프티어 | 1등  | 2025.01.02 ~ 2025.02.28 |  Uniro /<br>장애인 대학생을 위한 캠퍼스 배리어프리 맵 서비스  | [수상내역](https://github.com/softeer5th/Team2-Getit) |
+| 현대자동차 소프티어 | 1등  | 2025.01.02 ~ 2025.02.28 |  Uniro /<br>장애인 대학생을 위한 캠퍼스 배리어프리 맵 서비스  | [수상내역](https://www.notion.so/1ac796e8d5dd80e0aceeee11ee94ff4f?pvs=4) |
 | Klay makers 2022 | 2등  | 2022.09.10 ~ 2022.11.23 |  D-AD /<br>개인정보 노출을 최소화한 광고 플랫폼 개발  | [수상내역](https://medium.com/klaytn-kr/글로벌-해커톤-klaymakers22-수상자-공개-83a709903d68) |
 | TRON Grand Hackathon - Season 3 | 5등  | 2022.11.10 ~ 2022.12.16 |  mushroom by 0xCatbox /<br> staking 및 DNFT 를 활용한 버섯 키우기 게임  | [수상내역](https://cointelegraph.com/press-releases/tron-grand-hackathon-2022-season-3-winners-announced) |
 | EVMOS-Covalent Hackathon  | 1등  | 2022.11.10 ~ 2022.12.15 |  Metaverse(Roblox) /<br> 로블록스 재화를 NFT로 거래 할 수 있는 시스템 개발 | [수상 내역](https://medium.com/encode-club/evmos-covalent-onemillionwallets-hackathon-prizewinners-and-summary-22fca2302c37) |
