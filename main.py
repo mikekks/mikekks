@@ -7,12 +7,15 @@ RSS_FEED = feedparser.parse(URL)
 MAX_POST = 5
 
 # 새로운 블로그 글 목록 만들기
-markdown_text = "## ✅ Latest Blog Post\n\n"
+markdown_text = "## 📝 Latest Blog Post\n\n"
 for idx, feed in enumerate(RSS_FEED['entries']):
     if idx >= MAX_POST:
         break
     feed_date = feed['published_parsed']
-    markdown_text += f"[{time.strftime('%Y/%m/%d', feed_date)} - {feed['title']}]({feed['link']}) <br/>\n"
+    formatted_date = time.strftime('%Y/%m/%d', feed_date)
+    title = feed['title']
+    link = feed['link']
+    markdown_text += f"- **{formatted_date}** — [{title}]({link})\n"
 
 # README 파일 불러오기
 with open("README.md", "r", encoding="utf-8") as f:
