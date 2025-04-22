@@ -15,11 +15,11 @@
 <!-- BLOG-POST-START -->
 ## 📝 Latest Blog Post
 
+- **2025/04/21** — [[회고] 가장 특별한 평범함](https://gamxong.tistory.com/165)
+- **2025/04/21** — [[회고] 제약은 언제나 더 큰 감동을 위한 준비작업이다.](https://gamxong.tistory.com/164)
 - **2025/03/25** — [5만건 데이터, OOM 문제부터 110ms까지 개선 - 3편](https://gamxong.tistory.com/162)
 - **2025/03/08** — [5만건 데이터, OOM 문제부터 110ms까지 개선 - 2편](https://gamxong.tistory.com/161)
 - **2025/03/08** — [5만건 데이터, OOM 문제부터 110ms까지 개선 - 1편](https://gamxong.tistory.com/160)
-- **2025/01/13** — [[Spring] 10만 요청으로 서버 장애부터, 응답시간 80% 개선까지](https://gamxong.tistory.com/158)
-- **2025/01/13** — [[Network] RFC에 정의된 HTTP Method](https://gamxong.tistory.com/157)
 
 <!-- BLOG-POST-END -->
  
