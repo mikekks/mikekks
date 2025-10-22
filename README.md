@@ -22,7 +22,6 @@
  | 레이어   | 2024.06 ~ 진행중 | 회고를 쉽게 도와주는 서비스 | [서비스 링크](https://www.layerapp.io/), [GitHub](https://github.com/depromeet/layer-server)    |
  
  ## 🛠 &nbsp;Tech Stack
- ### BackEnd
  * Java, go
  * Spring Boot, Spring MVC, Spring Data JPA
  * Junit5, Mockito, Jacoco, Jmeter, Prometheus
