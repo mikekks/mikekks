@@ -20,12 +20,3 @@
  |  sopt-makers crew 팀   | 2024.03 ~ 2025.02 | 매 기수 200명의 동아리원을 관리하기 위한 서비스 | [서비스 링크](https://playground.sopt.org/), [Github](https://github.com/sopt-makers/sopt-crew-backend) |
  | 논술메이트  | 2023.12 ~ 2024.10 | 입시 논술 관련 서비스 (**정주영 창업경진대회 진행**) | [서비스 링크](https://www.nonsoolmate.com/), [관련기사](https://www.mk.co.kr/news/it/11170786)   |
  | 레이어   | 2024.06 ~ 진행중 | 회고를 쉽게 도와주는 서비스 | [서비스 링크](https://www.layerapp.io/), [GitHub](https://github.com/depromeet/layer-server)    |
- 
- ## 🛠 &nbsp;Tech Stack
- * Java, go
- * Spring Boot, Spring MVC, Spring Data JPA
- * Junit5, Mockito, Jacoco, Jmeter, Prometheus
- * k8s, MySQL
- 
- -----
- Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
