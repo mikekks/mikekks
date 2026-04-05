@@ -4,11 +4,11 @@
 <!-- BLOG-POST-START -->
 ## 📝 Latest Blog Post
 
+- **2026/02/22** — [3. Sharded Matrices and How to Multiply Them](https://gamxong.tistory.com/169)
 - **2026/01/25** — [2. TPU란 무엇인가?](https://gamxong.tistory.com/168)
 - **2026/01/25** — [1. Rooflines에 관한 모든것](https://gamxong.tistory.com/167)
 - **2025/04/28** — [소프티어부트캠프 5기 후기, 채용전환까지](https://gamxong.tistory.com/166)
 - **2025/04/21** — [[회고] 가장 특별한 평범함](https://gamxong.tistory.com/165)
-- **2025/04/21** — [[회고] 제약은 언제나 더 큰 감동을 위한 준비작업이다.](https://gamxong.tistory.com/164)
 
 <!-- BLOG-POST-END -->
  
